@@ -1,0 +1,46 @@
+
+{
+    "common": {
+        "status": 200,
+        "responseCode": 200,
+        "message": "Success",
+        "technicalMessage": "technicalmessage"
+    },
+    "data": {
+        "serviceTypeList": [
+            {
+                "id":"bjbkjn",
+                "title":"Farmer",
+                "categoryID":"bjkkjnkjn",
+                "description":" iam farmer",
+                "keywordSearchFilter":[],
+                "timestamp":null
+            },
+            {
+                "id":"bjbkjn",
+                "title":"Farmer",
+                "categoryID":"bjkkjnkjn",
+                "description":" iam farmer",
+                "keywordSearchFilter":[],
+                "timestamp":null
+            },
+            {
+                "id":"bjbkjn",
+                "title":"Farmer",
+                "categoryID":"bjkkjnkjn",
+                "description":" iam farmer",
+                "keywordSearchFilter":[],
+                "timestamp":null
+            },
+            {
+                "id":"bjbkjn",
+                "title":"Farmer",
+                "categoryID":"bjkkjnkjn",
+                "description":" iam farmer",
+                "keywordSearchFilter":[],
+                "timestamp":null
+            }
+
+        ]
+    }
+}

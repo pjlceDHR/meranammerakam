@@ -1,0 +1,49 @@
+
+{
+    "common": {
+        "status": 200,
+        "responseCode": 200,
+        "message": "Success",
+        "technicalMessage": "technicalmessage"
+    },
+    "data": {
+        "serviceProviderList": [
+            {
+                "id":"bjbkjn",
+                "username":"Farmer",
+                "name":"bjkkjnkjn",
+                "mobileNo":" iam farmer",
+                "altMobileNo":[],
+                "email":"",
+                "baseCharge":"536.45",
+                "bio":" my details description",
+                "profilePhotoUTL":"",
+                "visitingCardURL":"",
+                "videoURL":"",
+                "myWorkPhotoURLs":[],
+                "URLs":[
+                    {
+                        "title":"Visiting card URL",
+                        "storageAddress":"",
+                        "publicURL":""
+                    },
+                    {
+                        "title":"video URL",
+                        "storageAddress":"",
+                        "publicURL":""
+                    }
+                ],
+                "bankDetails":{
+                    "accountNo": "53113521313",
+                    "IFSCCode":"HJJ45545436"
+                },
+                "rating":{
+                    "1": "Shivam please make changes ."
+                },
+                "timestamp":null
+            }
+
+
+        ]
+    }
+}
